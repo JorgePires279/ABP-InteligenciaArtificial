@@ -1,0 +1,51 @@
+
+1. clone o repositorio
+
+Extraia o arquivo para uma pasta, por exemplo:
+
+C:\Projetos\IA\
+
+A estrutura deve ficar semelhante a:
+
+Aplicativo de Inteligência Artificial
+│
+└── app
+    ├── aplicativo.py
+    └── predictive_maintenance.csv
+2. Abrir no VS Code
+Abra o VS Code.
+Clique em File → Open Folder.
+Selecione a pasta:
+Aplicativo de Inteligência Artificial
+3. Criar ambiente virtual (recomendado)
+
+Abra o terminal do VS Code:
+
+python -m venv venv
+
+Ative o ambiente:
+
+Windows
+
+venv\Scripts\activate
+4. Instalar dependências
+
+No terminal:
+
+pip install streamlit pandas scikit-learn plotly
+
+Ou:
+
+pip install -U streamlit pandas scikit-learn plotly
+5. Entrar na pasta do aplicativo
+cd app
+6. Executar o sistema
+streamlit run aplicativo.py
+
+O terminal deverá mostrar algo parecido com:
+
+Local URL: http://localhost:8501
+
+Abra o navegador em:
+
+http://localhost:8501
