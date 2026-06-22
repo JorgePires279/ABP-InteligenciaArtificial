@@ -56,7 +56,7 @@ Certifique-se de estar dentro da pasta `app/`:
 cd app
 streamlit run aplicativo.py
 ```
-    ## 3.1 Execute a aplicação
+### 3.1 Execute a aplicação
 
     Se o projeto não executar corretamente, clone o repositório novamente e utilize o arquivo README.md ("Leia-me") para dar continuidade ao processo de inicialização. 
 
