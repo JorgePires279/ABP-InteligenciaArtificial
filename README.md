@@ -1,10 +1,12 @@
-# APB - IA
+## APB - IA
     Jorge Luiz Madeira Pires
     Gustavo O. Citadin
     Vitoria dos S. Luiz
     Victor da S. Dagostim
-    
-🛡️ Cyber-Physical Shield — Sistema Preditivo de Falhas Industriais
+
+---
+
+##🛡️ Cyber-Physical Shield — Sistema Preditivo de Falhas Industriais
 
 > Sistema inteligente de manutenção preditiva com Machine Learning para detecção antecipada de falhas em ativos industriais críticos.
 
